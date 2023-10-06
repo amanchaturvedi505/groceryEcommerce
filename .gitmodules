@@ -1,0 +1,3 @@
+[submodule "groceryEcommerceClient"]
+	path = groceryEcommerceClient
+	url = https://github.com/amanchaturvedi505/groceryEcommerceClient
